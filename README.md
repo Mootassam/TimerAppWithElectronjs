@@ -1,12 +1,3 @@
-# PROJECT NAME. :arrow_forward::high_brightness:
-The project is titled 'Timer-App'. For more information check [this](https://medium.com/@successam336/combining-angular-and-electron-timer-application-e7ba88d5cc9f) out.
-
-
-## DESCRIPTION OF PROJECT.
-The project is a simple desktop application that serves as a timer:medal_military::medal_military::trophy:
- <p float="centre">
-   <img src="pics/pic.png" width="100%" height="100%" />
-</p>
 
 ### PROJECT SETUP INSTRUCTIONS.
 1. Fork this repository.
