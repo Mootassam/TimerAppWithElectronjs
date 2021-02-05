@@ -8,10 +8,6 @@
 6. Run the command `npm install`.
 7. Run the command `npm start` to start the app.
 
-### KNOWN BUGS.:warning::warning:
-----------------------------------------
-
-
 ### CONTACT INFORMATION.
 For more information, feel free to contact me through the email address: mootassame@gmail.com
 
